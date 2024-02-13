@@ -31,6 +31,15 @@
     <string name="pdr">Pedestrian Dead Reckoning</string>
     <string name="wifi">WiFi Networks</string>
 
+    <string-array name="floors_array">
+        <item>Basement Floor</item>
+        <item>Ground Floor</item>
+        <item>First Floor</item>
+        <item>Second Floor</item>
+        <item>Third Floor</item>
+        <!-- Add more floors as needed -->
+    </string-array>
+
 
     <!-- Misc -->
     <string name="x">X: %1s</string>
